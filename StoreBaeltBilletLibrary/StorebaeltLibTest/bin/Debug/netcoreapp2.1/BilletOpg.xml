@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletOpg</name>
+    </assembly>
+    <members>
+        <member name="M:BilletOpg.Bil.Pris">
+            <summary>
+            Giver prisen på køretøjet
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletOpg.Bil.Køretøj">
+            <summary>
+            Giver typen af køretøjet
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletOpg.KøretøjKlasse.Pris">
+            <summary>
+            Giver prisen til køretøjet
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletOpg.KøretøjKlasse.Køretøj">
+            <summary>
+            Giver typen af køretøjet
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletOpg.KøretøjKlasse.BrobizzRabatPris(System.Decimal)">
+            <summary>
+            Udregner prisen efter Brobizz rabatten
+            </summary>
+            <param name="pris"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BilletOpg.MC.Pris">
+            <summary>
+            Retunerer prisen med brobizz rabat.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletOpg.MC.Køretøj">
+            <summary>
+            Giver typen af køretøjet
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

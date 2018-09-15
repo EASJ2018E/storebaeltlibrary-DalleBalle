@@ -1,0 +1,12 @@
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.deps.json
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.dll
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.pdb
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\BilletOpg.dll
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\BilletOpg.xml
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csprojAssemblyReference.cache
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csproj.CoreCompileInputs.cache
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.AssemblyInfoInputs.cache
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.AssemblyInfo.cs
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csproj.CopyComplete
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.dll
+C:\Git\StorebaeltLibrary\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.pdb
